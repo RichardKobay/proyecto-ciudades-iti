@@ -1,6 +1,7 @@
 [
   {
     "estado": "Aguascalientes",
+    "key": "AGS",
     "municipios": [
       "Aguascalientes",
       "Asientos",
@@ -17,6 +18,7 @@
   },
   {
     "estado": "Baja California",
+    "key": "BCN",
     "municipios": [
       "Ensenada",
       "Mexicali",
@@ -27,6 +29,7 @@
   },
   {
     "estado": "Baja California Sur",
+    "key": "BCS",
     "municipios": [
       "Comondu",
       "La Paz",
@@ -37,6 +40,7 @@
   },
   {
     "estado": "Campeche",
+    "key": "CAM",
     "municipios": [
       "Calakmul",
       "Calkini",
@@ -53,6 +57,7 @@
   },
   {
     "estado": "Coahuila",
+    "key": "COA",
     "municipios": [
       "Abasolo",
       "Acuna",
@@ -96,6 +101,7 @@
   },
   {
     "estado": "Colima",
+    "key": "COL",
     "municipios": [
       "Armeria",
       "Colima",
@@ -111,6 +117,7 @@
   },
   {
     "estado": "Chiapas",
+    "key": "CHP",
     "municipios": [
       "Acacoyagua",
       "Acala",
@@ -239,6 +246,7 @@
   },
   {
     "estado":"Chihuahua",
+    "key": "CHI",
     "municipios": [
       "Ahumada",
       "Aldama",
@@ -311,6 +319,7 @@
   },
   {
     "estado": "Ciudad de Mexico",
+    "key": "DIF",
     "municipios": [
       "Alvaro Obregon",
       "Azcapotzalco",
@@ -332,6 +341,7 @@
   },
   {
     "estado": "Durango",
+    "key": "DUR",
     "municipios": [
       "Canatlan",
       "Canelas",
@@ -376,6 +386,7 @@
   },
   {
     "estado": "Guanajuato",
+    "key": "GTO",
     "municipios": [
       "Abasolo",
       "Acambaro",
@@ -427,6 +438,7 @@
   },
   {
     "estado": "Guerrero",
+    "key": "GRO",
     "municipios": [
       "Acapulco de Juarez",
       "Acatepec",
@@ -513,6 +525,7 @@
   },
   {
     "estado": "Hidalgo",
+    "key": "HGO",
     "municipios": [
       "Acatlan",
       "Acaxochitlan",
@@ -602,6 +615,7 @@
   },
   {
     "estado": "Jalisco",
+    "key": "JAL",
     "municipios": [
       "Acatic",
       "Acatlan de Juarez",
@@ -732,6 +746,7 @@
   },
   {
     "estado": "Estado de Mexico",
+    "key": "EDOMX",
     "municipios": [
       "Acambay de Ruiz Castaneda",
       "Acolman",
@@ -862,6 +877,7 @@
   },
   {
     "estado": "Michoacan",
+    "key": "MIC",
     "municipios": [
       "Acuitzio",
       "Aguililla",
@@ -980,6 +996,7 @@
   },
   {
     "estado": "Morelos",
+    "key": "MOR",
     "municipios": [
       "Amacuzac",
       "Atlatlahucan",
@@ -1018,6 +1035,7 @@
   },
   {
     "estado": "Nayarit",
+    "key": "NAY",
     "municipios": [
       "Acaponeta",
       "Ahuacatlan",
@@ -1043,6 +1061,7 @@
   },
   {
     "estado": "Nuevo Leon",
+    "key": "NLE",
     "municipios": [
       "Abasolo",
       "Agualeguas",
@@ -1099,6 +1118,7 @@
   },
   {
     "estado": "Oaxaca",
+    "key": "OAX",
     "municipios": [
       "Abejones",
       "Acatlan de Perez Figueroa",
@@ -1675,6 +1695,7 @@
   },
   {
     "estado": "Puebla",
+    "key": "PUE",
     "municipios": [
       "Acajete",
       "Acateno",
@@ -1897,6 +1918,7 @@
   },
   {
     "estado": "Queretaro",
+    "key": "QRO",
     "municipios": [
       "Amealco de Bonfil",
       "Arroyo Seco",
@@ -1920,6 +1942,7 @@
   },
   {
     "estado": "Quintana Roo",
+    "key": "ROO",
     "municipios": [
       "Bacalar",
       "Benito Juarez",
@@ -1936,6 +1959,7 @@
   },
   {
     "estado": "San Luis Potosi",
+    "key": "SLP",
     "municipios": [
       "Ahualulco",
       "Alaquines",
@@ -1999,6 +2023,7 @@
   },
   {
     "estado": "Sinaloa",
+    "key": "SIN",
     "municipios": [
       "Ahome",
       "Angostura",
@@ -2022,6 +2047,7 @@
   },
   {
     "estado": "Sonora",
+    "key": "SON",
     "municipios": [
       "Aconchi",
       "Agua Prieta",
@@ -2099,6 +2125,7 @@
   },
   {
     "estado": "Tabasco",
+    "key": "TAB",
     "municipios": [
       "Balancan",
       "Cardenas",
@@ -2121,6 +2148,7 @@
   },
   {
     "estado": "Tamaulipas",
+    "key": "TAM",
     "municipios": [
       "Abasolo",
       "Aldama",
@@ -2169,6 +2197,7 @@
   },
   {
     "estado": "Tlaxcala",
+    "key": "TLX",
     "municipios": [
       "Acuamanala de Miguel Hidalgo",
       "Amaxac de Guerrero",
@@ -2234,6 +2263,7 @@
   },
   {
     "estado": "Veracruz",
+    "key": "VER",
     "municipios": [
       "Acajete",
       "Acatlan",
@@ -2451,6 +2481,7 @@
   },
   {
     "estado": "Yucatan",
+    "key": "YUC",
     "municipios": [
       "Abala",
       "Acanceh",
@@ -2562,6 +2593,7 @@
   },
   {
     "estado": "Zacatecas",
+    "key": "ZAC",
     "municipios": [
       "Apozol",
       "Apulco",
