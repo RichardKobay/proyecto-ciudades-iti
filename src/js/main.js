@@ -5,30 +5,22 @@ window.addEventListener("load", () => {
 
 function getStates() {
     const xhttp = new XMLHttpRequest()
-    xhttp.open("GET", "/src/api/api.json", true)
+    xhttp.open("GET", env.host + "/src/api/api.json", true)
     xhttp.send()
 
     xhttp.onreadystatechange = function () {
         if (this.readyState == 4 && this.status == 200) {
             let data = JSON.parse(this.responseText)
             
-            
-            for (const iterator of data) {
-                const select = document.getElementById("statesSelect")
-                // console.log(iterator.key)
-                // console.log(iterator.estado)
-                
+            for (const state of data) {
+                const select = document.getElementById("statesSelect")                
                 let opt = document.createElement("option")
-                let content = document.createTextNode(iterator.estado)
+                let content = document.createTextNode(state.estado)
+                
                 opt.appendChild(content)
-                opt.setAttribute("value", iterator.key)
+                opt.setAttribute("value", state.key)
                 select.appendChild(opt)
-                console.log(select.lastChild.previousSibling)
             }
         }
     }
 }
-
-const botoncito = document.getElementById("botoncito").addEventListener("click", () => {
-    
-})

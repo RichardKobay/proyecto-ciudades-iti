@@ -1,10 +1,11 @@
 const http = require("http")
+const env = require("env.js")
 const fs = require('fs').promises
 const host = 'localhost'
 const port = 8000
 
 const requestListener = function (req, res) {
-    fs.readFile("C:/Users/ricar/dev/upv/1erCuatri/iti/proyecto-ciudades/src/index.html")
+    fs.readFile(env.host + "src/index.html")
     .then(contents => {
         res.setHeader("Content-Type", "text/html")
         res.writeHead(200)
