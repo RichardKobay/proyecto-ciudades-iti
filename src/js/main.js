@@ -1,26 +1,34 @@
-const statesSelect = document.getElementById("states-select")
-
 window.addEventListener("load", () => {
     getStates()
 })
 
 
 function getStates() {
-    console.log("inside")
-
     const xhttp = new XMLHttpRequest()
-
     xhttp.open("GET", "/src/api/api.json", true)
     xhttp.send()
+
     xhttp.onreadystatechange = function () {
         if (this.readyState == 4 && this.status == 200) {
-            // console.log(this.responseText)
             let data = JSON.parse(this.responseText)
-
-            console.log(data[30])
+            
+            
             for (const iterator of data) {
-                console.log(data[iterator])
+                const select = document.getElementById("statesSelect")
+                // console.log(iterator.key)
+                // console.log(iterator.estado)
+                
+                let opt = document.createElement("option")
+                let content = document.createTextNode(iterator.estado)
+                opt.appendChild(content)
+                opt.setAttribute("value", iterator.key)
+                select.appendChild(opt)
+                console.log(select.lastChild.previousSibling)
             }
         }
     }
 }
+
+const botoncito = document.getElementById("botoncito").addEventListener("click", () => {
+    
+})
