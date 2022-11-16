@@ -17,7 +17,7 @@ function getStates() {
             // console.log(this.responseText)
             let data = JSON.parse(this.responseText)
 
-            console.log(data[0])
+            console.log(data[30])
             for (const iterator of data) {
                 console.log(data[iterator])
             }

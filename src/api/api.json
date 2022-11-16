@@ -26,7 +26,8 @@
     ]
   },
   {
-    "Baja California Sur": [
+    "estado": "Baja California Sur",
+    "municipios": [
       "Comondu",
       "La Paz",
       "Loreto",
@@ -35,7 +36,8 @@
     ]
   },
   {
-    "Campeche": [
+    "estado": "Campeche",
+    "municipios": [
       "Calakmul",
       "Calkini",
       "Campeche",
@@ -50,7 +52,8 @@
     ]
   },
   {
-    "Coahuila": [
+    "estado": "Coahuila",
+    "municipios": [
       "Abasolo",
       "Acuna",
       "Allende",
@@ -92,7 +95,8 @@
     ]
   },
   {
-    "Colima": [
+    "estado": "Colima",
+    "municipios": [
       "Armeria",
       "Colima",
       "Comala",
@@ -106,7 +110,8 @@
     ]
   },
   {
-    "Chiapas": [
+    "estado": "Chiapas",
+    "municipios": [
       "Acacoyagua",
       "Acala",
       "Acapetahua",
@@ -233,7 +238,8 @@
     ]
   },
   {
-    "Chihuahua": [
+    "estado":"Chihuahua",
+    "municipios": [
       "Ahumada",
       "Aldama",
       "Allende",
@@ -304,7 +310,8 @@
     ]
   },
   {
-    "Ciudad de Mexico": [
+    "estado": "Ciudad de Mexico",
+    "municipios": [
       "Alvaro Obregon",
       "Azcapotzalco",
       "Benito Juarez",
@@ -324,7 +331,8 @@
     ]
   },
   {
-    "Durango": [
+    "estado": "Durango",
+    "municipios": [
       "Canatlan",
       "Canelas",
       "Coneto de Comonfort",
@@ -367,7 +375,8 @@
     ]
   },
   {
-    "Guanajuato": [
+    "estado": "Guanajuato",
+    "municipios": [
       "Abasolo",
       "Acambaro",
       "Apaseo el Alto",
@@ -417,7 +426,8 @@
     ]
   },
   {
-    "Guerrero": [
+    "estado": "Guerrero",
+    "municipios": [
       "Acapulco de Juarez",
       "Acatepec",
       "Ahuacuotzingo",
@@ -502,7 +512,8 @@
     ]
   },
   {
-    "Hidalgo": [
+    "estado": "Hidalgo",
+    "municipios": [
       "Acatlan",
       "Acaxochitlan",
       "Actopan",
@@ -590,7 +601,8 @@
     ]
   },
   {
-    "Jalisco": [
+    "estado": "Jalisco",
+    "municipios": [
       "Acatic",
       "Acatlan de Juarez",
       "Ahualulco de Mercado",
@@ -719,7 +731,8 @@
     ]
   },
   {
-    "Estado de Mexico": [
+    "estado": "Estado de Mexico",
+    "municipios": [
       "Acambay de Ruiz Castaneda",
       "Acolman",
       "Aculco",
@@ -848,7 +861,8 @@
     ]
   },
   {
-    "Michoacan": [
+    "estado": "Michoacan",
+    "municipios": [
       "Acuitzio",
       "Aguililla",
       "Alvaro Obregon",
@@ -965,7 +979,8 @@
     ]
   },
   {
-    "Morelos": [
+    "estado": "Morelos",
+    "municipios": [
       "Amacuzac",
       "Atlatlahucan",
       "Axochiapan",
@@ -1002,7 +1017,8 @@
     ]
   },
   {
-    "Nayarit": [
+    "estado": "Nayarit",
+    "municipios": [
       "Acaponeta",
       "Ahuacatlan",
       "Amatlan de Canas",
@@ -1026,7 +1042,8 @@
     ]
   },
   {
-    "Nuevo Leon": [
+    "estado": "Nuevo Leon",
+    "municipios": [
       "Abasolo",
       "Agualeguas",
       "Allende",
@@ -1081,7 +1098,8 @@
     ]
   },
   {
-    "Oaxaca": [
+    "estado": "Oaxaca",
+    "municipios": [
       "Abejones",
       "Acatlan de Perez Figueroa",
       "Animas Trujano",
@@ -1656,7 +1674,8 @@
     ]
   },
   {
-    "Puebla": [
+    "estado": "Puebla",
+    "municipios": [
       "Acajete",
       "Acateno",
       "Acatlan",
@@ -1877,7 +1896,8 @@
     ]
   },
   {
-    "Queretaro": [
+    "estado": "Queretaro",
+    "municipios": [
       "Amealco de Bonfil",
       "Arroyo Seco",
       "Cadereyta de Montes",
@@ -1899,7 +1919,8 @@
     ]
   },
   {
-    "Quintana Roo": [
+    "estado": "Quintana Roo",
+    "municipios": [
       "Bacalar",
       "Benito Juarez",
       "Cozumel",
@@ -1914,7 +1935,8 @@
     ]
   },
   {
-    "San Luis Potosi": [
+    "estado": "San Luis Potosi",
+    "municipios": [
       "Ahualulco",
       "Alaquines",
       "Aquismon",
@@ -1976,7 +1998,8 @@
     ]
   },
   {
-    "Sinaloa": [
+    "estado": "Sinaloa",
+    "municipios": [
       "Ahome",
       "Angostura",
       "Badiraguato",
@@ -1998,7 +2021,8 @@
     ]
   },
   {
-    "Sonora": [
+    "estado": "Sonora",
+    "municipios": [
       "Aconchi",
       "Agua Prieta",
       "Alamos",
@@ -2074,7 +2098,8 @@
     ]
   },
   {
-    "Tabasco": [
+    "estado": "Tabasco",
+    "municipios": [
       "Balancan",
       "Cardenas",
       "Centla",
@@ -2095,7 +2120,8 @@
     ]
   },
   {
-    "Tamaulipas": [
+    "estado": "Tamaulipas",
+    "municipios": [
       "Abasolo",
       "Aldama",
       "Altamira",
@@ -2142,7 +2168,8 @@
     ]
   },
   {
-    "Tlaxcala": [
+    "estado": "Tlaxcala",
+    "municipios": [
       "Acuamanala de Miguel Hidalgo",
       "Amaxac de Guerrero",
       "Apetatitlan de Antonio Carvajal",
@@ -2206,7 +2233,8 @@
     ]
   },
   {
-    "Veracruz": [
+    "estado": "Veracruz",
+    "municipios": [
       "Acajete",
       "Acatlan",
       "Acayucan",
@@ -2422,7 +2450,8 @@
     ]
   },
   {
-    "Yucatan": [
+    "estado": "Yucatan",
+    "municipios": [
       "Abala",
       "Acanceh",
       "Akil",
@@ -2532,7 +2561,8 @@
     ]
   },
   {
-    "Zacatecas": [
+    "estado": "Zacatecas",
+    "municipios": [
       "Apozol",
       "Apulco",
       "Atolinga",

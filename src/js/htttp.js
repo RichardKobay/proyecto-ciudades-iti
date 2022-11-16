@@ -4,7 +4,7 @@ const host = 'localhost'
 const port = 8000
 
 const requestListener = function (req, res) {
-    fs.readFile(__dirname + "/src/js/../index.html")
+    fs.readFile("C:/Users/ricar/dev/upv/1erCuatri/iti/proyecto-ciudades/src/index.html")
     .then(contents => {
         res.setHeader("Content-Type", "text/html")
         res.writeHead(200)
