@@ -1,0 +1,575 @@
+{
+  "datos": [
+    {
+      "cve_ent": 28,
+      "cve_mun": "001",
+      "nom_mun": "Abasolo",
+      "nom_cab": "Abasolo",
+      "cve_geo_regiones": 3,
+      "entidad": {
+        "cve_ent": 28,
+        "nom_ent": "Tamaulipas",
+        "nom_abr": "Tamps."
+      },
+      "region": [{ "cve_geo_regiones": 3, "region": "Regi\u00f3n centro" }]
+    },
+    {
+      "cve_ent": 28,
+      "cve_mun": "002",
+      "nom_mun": "Aldama",
+      "nom_cab": "Aldama",
+      "cve_geo_regiones": 4,
+      "entidad": {
+        "cve_ent": 28,
+        "nom_ent": "Tamaulipas",
+        "nom_abr": "Tamps."
+      },
+      "region": [{ "cve_geo_regiones": 4, "region": "Regi\u00f3n sur" }]
+    },
+    {
+      "cve_ent": 28,
+      "cve_mun": "003",
+      "nom_mun": "Altamira",
+      "nom_cab": "Altamira",
+      "cve_geo_regiones": 4,
+      "entidad": {
+        "cve_ent": 28,
+        "nom_ent": "Tamaulipas",
+        "nom_abr": "Tamps."
+      },
+      "region": [{ "cve_geo_regiones": 4, "region": "Regi\u00f3n sur" }]
+    },
+    {
+      "cve_ent": 28,
+      "cve_mun": "004",
+      "nom_mun": "Antiguo Morelos",
+      "nom_cab": "Antiguo Morelos",
+      "cve_geo_regiones": 5,
+      "entidad": {
+        "cve_ent": 28,
+        "nom_ent": "Tamaulipas",
+        "nom_abr": "Tamps."
+      },
+      "region": [{ "cve_geo_regiones": 5, "region": "Regi\u00f3n Mante" }]
+    },
+    {
+      "cve_ent": 28,
+      "cve_mun": "005",
+      "nom_mun": "Burgos",
+      "nom_cab": "Burgos",
+      "cve_geo_regiones": 2,
+      "entidad": {
+        "cve_ent": 28,
+        "nom_ent": "Tamaulipas",
+        "nom_abr": "Tamps."
+      },
+      "region": [
+        { "cve_geo_regiones": 2, "region": "Regi\u00f3n valle de San Fernando" }
+      ]
+    },
+    {
+      "cve_ent": 28,
+      "cve_mun": "006",
+      "nom_mun": "Bustamante",
+      "nom_cab": "Bustamante",
+      "cve_geo_regiones": 6,
+      "entidad": {
+        "cve_ent": 28,
+        "nom_ent": "Tamaulipas",
+        "nom_abr": "Tamps."
+      },
+      "region": [{ "cve_geo_regiones": 6, "region": "Regi\u00f3n altiplano" }]
+    },
+    {
+      "cve_ent": 28,
+      "cve_mun": "007",
+      "nom_mun": "Camargo",
+      "nom_cab": "Ciudad Camargo",
+      "cve_geo_regiones": 1,
+      "entidad": {
+        "cve_ent": 28,
+        "nom_ent": "Tamaulipas",
+        "nom_abr": "Tamps."
+      },
+      "region": [{ "cve_geo_regiones": 1, "region": "Regi\u00f3n fronteriza" }]
+    },
+    {
+      "cve_ent": 28,
+      "cve_mun": "008",
+      "nom_mun": "Casas",
+      "nom_cab": "Casas",
+      "cve_geo_regiones": 3,
+      "entidad": {
+        "cve_ent": 28,
+        "nom_ent": "Tamaulipas",
+        "nom_abr": "Tamps."
+      },
+      "region": [{ "cve_geo_regiones": 3, "region": "Regi\u00f3n centro" }]
+    },
+    {
+      "cve_ent": 28,
+      "cve_mun": "009",
+      "nom_mun": "Ciudad Madero",
+      "nom_cab": "Ciudad Madero",
+      "cve_geo_regiones": 4,
+      "entidad": {
+        "cve_ent": 28,
+        "nom_ent": "Tamaulipas",
+        "nom_abr": "Tamps."
+      },
+      "region": [{ "cve_geo_regiones": 4, "region": "Regi\u00f3n sur" }]
+    },
+    {
+      "cve_ent": 28,
+      "cve_mun": "010",
+      "nom_mun": "Cruillas",
+      "nom_cab": "Cruillas",
+      "cve_geo_regiones": 2,
+      "entidad": {
+        "cve_ent": 28,
+        "nom_ent": "Tamaulipas",
+        "nom_abr": "Tamps."
+      },
+      "region": [
+        { "cve_geo_regiones": 2, "region": "Regi\u00f3n valle de San Fernando" }
+      ]
+    },
+    {
+      "cve_ent": 28,
+      "cve_mun": "021",
+      "nom_mun": "El Mante",
+      "nom_cab": "Ciudad Mante",
+      "cve_geo_regiones": 5,
+      "entidad": {
+        "cve_ent": 28,
+        "nom_ent": "Tamaulipas",
+        "nom_abr": "Tamps."
+      },
+      "region": [{ "cve_geo_regiones": 5, "region": "Regi\u00f3n Mante" }]
+    },
+    {
+      "cve_ent": 28,
+      "cve_mun": "011",
+      "nom_mun": "G\u00f3mez Far\u00edas",
+      "nom_cab": "G\u00f3mez Far\u00edas",
+      "cve_geo_regiones": 5,
+      "entidad": {
+        "cve_ent": 28,
+        "nom_ent": "Tamaulipas",
+        "nom_abr": "Tamps."
+      },
+      "region": [{ "cve_geo_regiones": 5, "region": "Regi\u00f3n Mante" }]
+    },
+    {
+      "cve_ent": 28,
+      "cve_mun": "012",
+      "nom_mun": "Gonz\u00e1lez",
+      "nom_cab": "Gonz\u00e1lez",
+      "cve_geo_regiones": 4,
+      "entidad": {
+        "cve_ent": 28,
+        "nom_ent": "Tamaulipas",
+        "nom_abr": "Tamps."
+      },
+      "region": [{ "cve_geo_regiones": 4, "region": "Regi\u00f3n sur" }]
+    },
+    {
+      "cve_ent": 28,
+      "cve_mun": "013",
+      "nom_mun": "G\u00fc\u00e9mez",
+      "nom_cab": "G\u00fc\u00e9mez",
+      "cve_geo_regiones": 3,
+      "entidad": {
+        "cve_ent": 28,
+        "nom_ent": "Tamaulipas",
+        "nom_abr": "Tamps."
+      },
+      "region": [{ "cve_geo_regiones": 3, "region": "Regi\u00f3n centro" }]
+    },
+    {
+      "cve_ent": 28,
+      "cve_mun": "014",
+      "nom_mun": "Guerrero",
+      "nom_cab": "Nueva Ciudad Guerrero",
+      "cve_geo_regiones": 1,
+      "entidad": {
+        "cve_ent": 28,
+        "nom_ent": "Tamaulipas",
+        "nom_abr": "Tamps."
+      },
+      "region": [{ "cve_geo_regiones": 1, "region": "Regi\u00f3n fronteriza" }]
+    },
+    {
+      "cve_ent": 28,
+      "cve_mun": "015",
+      "nom_mun": "Gustavo D\u00edaz Ordaz",
+      "nom_cab": "Ciudad Gustavo D\u00edaz Ordaz",
+      "cve_geo_regiones": 1,
+      "entidad": {
+        "cve_ent": 28,
+        "nom_ent": "Tamaulipas",
+        "nom_abr": "Tamps."
+      },
+      "region": [{ "cve_geo_regiones": 1, "region": "Regi\u00f3n fronteriza" }]
+    },
+    {
+      "cve_ent": 28,
+      "cve_mun": "016",
+      "nom_mun": "Hidalgo",
+      "nom_cab": "Hidalgo",
+      "cve_geo_regiones": 3,
+      "entidad": {
+        "cve_ent": 28,
+        "nom_ent": "Tamaulipas",
+        "nom_abr": "Tamps."
+      },
+      "region": [{ "cve_geo_regiones": 3, "region": "Regi\u00f3n centro" }]
+    },
+    {
+      "cve_ent": 28,
+      "cve_mun": "017",
+      "nom_mun": "Jaumave",
+      "nom_cab": "Jaumave",
+      "cve_geo_regiones": 6,
+      "entidad": {
+        "cve_ent": 28,
+        "nom_ent": "Tamaulipas",
+        "nom_abr": "Tamps."
+      },
+      "region": [{ "cve_geo_regiones": 6, "region": "Regi\u00f3n altiplano" }]
+    },
+    {
+      "cve_ent": 28,
+      "cve_mun": "018",
+      "nom_mun": "Jim\u00e9nez",
+      "nom_cab": "Santander Jim\u00e9nez",
+      "cve_geo_regiones": 3,
+      "entidad": {
+        "cve_ent": 28,
+        "nom_ent": "Tamaulipas",
+        "nom_abr": "Tamps."
+      },
+      "region": [{ "cve_geo_regiones": 3, "region": "Regi\u00f3n centro" }]
+    },
+    {
+      "cve_ent": 28,
+      "cve_mun": "019",
+      "nom_mun": "Llera",
+      "nom_cab": "Llera de Canales",
+      "cve_geo_regiones": 3,
+      "entidad": {
+        "cve_ent": 28,
+        "nom_ent": "Tamaulipas",
+        "nom_abr": "Tamps."
+      },
+      "region": [{ "cve_geo_regiones": 3, "region": "Regi\u00f3n centro" }]
+    },
+    {
+      "cve_ent": 28,
+      "cve_mun": "020",
+      "nom_mun": "Mainero",
+      "nom_cab": "Villa Mainero",
+      "cve_geo_regiones": 3,
+      "entidad": {
+        "cve_ent": 28,
+        "nom_ent": "Tamaulipas",
+        "nom_abr": "Tamps."
+      },
+      "region": [{ "cve_geo_regiones": 3, "region": "Regi\u00f3n centro" }]
+    },
+    {
+      "cve_ent": 28,
+      "cve_mun": "022",
+      "nom_mun": "Matamoros",
+      "nom_cab": "Heroica Matamoros",
+      "cve_geo_regiones": 1,
+      "entidad": {
+        "cve_ent": 28,
+        "nom_ent": "Tamaulipas",
+        "nom_abr": "Tamps."
+      },
+      "region": [{ "cve_geo_regiones": 1, "region": "Regi\u00f3n fronteriza" }]
+    },
+    {
+      "cve_ent": 28,
+      "cve_mun": "023",
+      "nom_mun": "M\u00e9ndez",
+      "nom_cab": "M\u00e9ndez",
+      "cve_geo_regiones": 2,
+      "entidad": {
+        "cve_ent": 28,
+        "nom_ent": "Tamaulipas",
+        "nom_abr": "Tamps."
+      },
+      "region": [
+        { "cve_geo_regiones": 2, "region": "Regi\u00f3n valle de San Fernando" }
+      ]
+    },
+    {
+      "cve_ent": 28,
+      "cve_mun": "024",
+      "nom_mun": "Mier",
+      "nom_cab": "Mier",
+      "cve_geo_regiones": 1,
+      "entidad": {
+        "cve_ent": 28,
+        "nom_ent": "Tamaulipas",
+        "nom_abr": "Tamps."
+      },
+      "region": [{ "cve_geo_regiones": 1, "region": "Regi\u00f3n fronteriza" }]
+    },
+    {
+      "cve_ent": 28,
+      "cve_mun": "025",
+      "nom_mun": "Miguel Alem\u00e1n",
+      "nom_cab": "Ciudad Miguel Alem\u00e1n",
+      "cve_geo_regiones": 1,
+      "entidad": {
+        "cve_ent": 28,
+        "nom_ent": "Tamaulipas",
+        "nom_abr": "Tamps."
+      },
+      "region": [{ "cve_geo_regiones": 1, "region": "Regi\u00f3n fronteriza" }]
+    },
+    {
+      "cve_ent": 28,
+      "cve_mun": "026",
+      "nom_mun": "Miquihuana",
+      "nom_cab": "Miquihuana",
+      "cve_geo_regiones": 6,
+      "entidad": {
+        "cve_ent": 28,
+        "nom_ent": "Tamaulipas",
+        "nom_abr": "Tamps."
+      },
+      "region": [{ "cve_geo_regiones": 6, "region": "Regi\u00f3n altiplano" }]
+    },
+    {
+      "cve_ent": 28,
+      "cve_mun": "027",
+      "nom_mun": "Nuevo Laredo",
+      "nom_cab": "Nuevo Laredo",
+      "cve_geo_regiones": 1,
+      "entidad": {
+        "cve_ent": 28,
+        "nom_ent": "Tamaulipas",
+        "nom_abr": "Tamps."
+      },
+      "region": [{ "cve_geo_regiones": 1, "region": "Regi\u00f3n fronteriza" }]
+    },
+    {
+      "cve_ent": 28,
+      "cve_mun": "028",
+      "nom_mun": "Nuevo Morelos",
+      "nom_cab": "Nuevo Morelos",
+      "cve_geo_regiones": 5,
+      "entidad": {
+        "cve_ent": 28,
+        "nom_ent": "Tamaulipas",
+        "nom_abr": "Tamps."
+      },
+      "region": [{ "cve_geo_regiones": 5, "region": "Regi\u00f3n Mante" }]
+    },
+    {
+      "cve_ent": 28,
+      "cve_mun": "029",
+      "nom_mun": "Ocampo",
+      "nom_cab": "Ocampo",
+      "cve_geo_regiones": 5,
+      "entidad": {
+        "cve_ent": 28,
+        "nom_ent": "Tamaulipas",
+        "nom_abr": "Tamps."
+      },
+      "region": [{ "cve_geo_regiones": 5, "region": "Regi\u00f3n Mante" }]
+    },
+    {
+      "cve_ent": 28,
+      "cve_mun": "030",
+      "nom_mun": "Padilla",
+      "nom_cab": "Nueva Villa de Padilla",
+      "cve_geo_regiones": 3,
+      "entidad": {
+        "cve_ent": 28,
+        "nom_ent": "Tamaulipas",
+        "nom_abr": "Tamps."
+      },
+      "region": [{ "cve_geo_regiones": 3, "region": "Regi\u00f3n centro" }]
+    },
+    {
+      "cve_ent": 28,
+      "cve_mun": "031",
+      "nom_mun": "Palmillas",
+      "nom_cab": "Palmillas",
+      "cve_geo_regiones": 6,
+      "entidad": {
+        "cve_ent": 28,
+        "nom_ent": "Tamaulipas",
+        "nom_abr": "Tamps."
+      },
+      "region": [{ "cve_geo_regiones": 6, "region": "Regi\u00f3n altiplano" }]
+    },
+    {
+      "cve_ent": 28,
+      "cve_mun": "032",
+      "nom_mun": "Reynosa",
+      "nom_cab": "Reynosa",
+      "cve_geo_regiones": 1,
+      "entidad": {
+        "cve_ent": 28,
+        "nom_ent": "Tamaulipas",
+        "nom_abr": "Tamps."
+      },
+      "region": [{ "cve_geo_regiones": 1, "region": "Regi\u00f3n fronteriza" }]
+    },
+    {
+      "cve_ent": 28,
+      "cve_mun": "033",
+      "nom_mun": "R\u00edo Bravo",
+      "nom_cab": "Ciudad R\u00edo Bravo",
+      "cve_geo_regiones": 1,
+      "entidad": {
+        "cve_ent": 28,
+        "nom_ent": "Tamaulipas",
+        "nom_abr": "Tamps."
+      },
+      "region": [{ "cve_geo_regiones": 1, "region": "Regi\u00f3n fronteriza" }]
+    },
+    {
+      "cve_ent": 28,
+      "cve_mun": "034",
+      "nom_mun": "San Carlos",
+      "nom_cab": "San Carlos",
+      "cve_geo_regiones": 3,
+      "entidad": {
+        "cve_ent": 28,
+        "nom_ent": "Tamaulipas",
+        "nom_abr": "Tamps."
+      },
+      "region": [{ "cve_geo_regiones": 3, "region": "Regi\u00f3n centro" }]
+    },
+    {
+      "cve_ent": 28,
+      "cve_mun": "035",
+      "nom_mun": "San Fernando",
+      "nom_cab": "San Fernando",
+      "cve_geo_regiones": 2,
+      "entidad": {
+        "cve_ent": 28,
+        "nom_ent": "Tamaulipas",
+        "nom_abr": "Tamps."
+      },
+      "region": [
+        { "cve_geo_regiones": 2, "region": "Regi\u00f3n valle de San Fernando" }
+      ]
+    },
+    {
+      "cve_ent": 28,
+      "cve_mun": "036",
+      "nom_mun": "San Nicol\u00e1s",
+      "nom_cab": "San Nicol\u00e1s",
+      "cve_geo_regiones": 3,
+      "entidad": {
+        "cve_ent": 28,
+        "nom_ent": "Tamaulipas",
+        "nom_abr": "Tamps."
+      },
+      "region": [{ "cve_geo_regiones": 3, "region": "Regi\u00f3n centro" }]
+    },
+    {
+      "cve_ent": 28,
+      "cve_mun": "037",
+      "nom_mun": "Soto la Marina",
+      "nom_cab": "Soto la Marina",
+      "cve_geo_regiones": 3,
+      "entidad": {
+        "cve_ent": 28,
+        "nom_ent": "Tamaulipas",
+        "nom_abr": "Tamps."
+      },
+      "region": [{ "cve_geo_regiones": 3, "region": "Regi\u00f3n centro" }]
+    },
+    {
+      "cve_ent": 28,
+      "cve_mun": "038",
+      "nom_mun": "Tampico",
+      "nom_cab": "Tampico",
+      "cve_geo_regiones": 4,
+      "entidad": {
+        "cve_ent": 28,
+        "nom_ent": "Tamaulipas",
+        "nom_abr": "Tamps."
+      },
+      "region": [{ "cve_geo_regiones": 4, "region": "Regi\u00f3n sur" }]
+    },
+    {
+      "cve_ent": 28,
+      "cve_mun": "039",
+      "nom_mun": "Tula",
+      "nom_cab": "Ciudad Tula",
+      "cve_geo_regiones": 6,
+      "entidad": {
+        "cve_ent": 28,
+        "nom_ent": "Tamaulipas",
+        "nom_abr": "Tamps."
+      },
+      "region": [{ "cve_geo_regiones": 6, "region": "Regi\u00f3n altiplano" }]
+    },
+    {
+      "cve_ent": 28,
+      "cve_mun": "040",
+      "nom_mun": "Valle Hermoso",
+      "nom_cab": "Valle Hermoso",
+      "cve_geo_regiones": 1,
+      "entidad": {
+        "cve_ent": 28,
+        "nom_ent": "Tamaulipas",
+        "nom_abr": "Tamps."
+      },
+      "region": [{ "cve_geo_regiones": 1, "region": "Regi\u00f3n fronteriza" }]
+    },
+    {
+      "cve_ent": 28,
+      "cve_mun": "041",
+      "nom_mun": "Victoria",
+      "nom_cab": "Ciudad Victoria",
+      "cve_geo_regiones": 3,
+      "entidad": {
+        "cve_ent": 28,
+        "nom_ent": "Tamaulipas",
+        "nom_abr": "Tamps."
+      },
+      "region": [{ "cve_geo_regiones": 3, "region": "Regi\u00f3n centro" }]
+    },
+    {
+      "cve_ent": 28,
+      "cve_mun": "042",
+      "nom_mun": "Villagr\u00e1n",
+      "nom_cab": "Villagr\u00e1n",
+      "cve_geo_regiones": 3,
+      "entidad": {
+        "cve_ent": 28,
+        "nom_ent": "Tamaulipas",
+        "nom_abr": "Tamps."
+      },
+      "region": [{ "cve_geo_regiones": 3, "region": "Regi\u00f3n centro" }]
+    },
+    {
+      "cve_ent": 28,
+      "cve_mun": "043",
+      "nom_mun": "Xicot\u00e9ncatl",
+      "nom_cab": "Xicot\u00e9ncatl",
+      "cve_geo_regiones": 5,
+      "entidad": {
+        "cve_ent": 28,
+        "nom_ent": "Tamaulipas",
+        "nom_abr": "Tamps."
+      },
+      "region": [{ "cve_geo_regiones": 5, "region": "Regi\u00f3n Mante" }]
+    }
+  ],
+  "datos_total": 43,
+  "error": false,
+  "tipo": "success",
+  "msg": "Datos encontrados"
+}
