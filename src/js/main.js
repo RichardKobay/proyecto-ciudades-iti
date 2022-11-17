@@ -54,7 +54,7 @@ const getCities = () => {
                 // console.log(city)
                 let opt = document.createElement("option")
                 let content = document.createTextNode(city)
-                let valueString = data[selectedOpt].key + "_" + city.replace(" ", "_")
+                let valueString = data[selectedOpt].key + "_" + city.replaceAll(" ", "_")
 
                 console.log(valueString)
 
