@@ -45,6 +45,11 @@ const getCities = () => {
             citiesdiv.classList.add("cities-div")
             body.append(citiesdiv)
 
+            const subtitle = document.createElement("h2")
+            subtitle.classList.add("subtitle")
+            subtitle.innerHTML = "Seleccione la ciudad"
+            citiesdiv.appendChild(subtitle)
+
             for (const city of statesCities) {
                 // console.log(city)
                 let opt = document.createElement("option")
@@ -60,10 +65,11 @@ const getCities = () => {
             }
 
             statesSelect.setAttribute("disabled", "")
+            
             const getCitiesBtn = document.getElementById("button")
-            getCitiesBtn.setAttribute("disabled", "")
-
             const getImagesButton = document.createElement("button")
+            
+            getCitiesBtn.setAttribute("disabled", "")
             getImagesButton.classList.add("button")
             getImagesButton.classList.add("cities-button")
             getImagesButton.innerHTML = "Dame las imagenes"

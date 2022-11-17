@@ -1,3 +1,7 @@
 .button {
     display: block;
 }
+
+.subtitle {
+    text-align: center;
+}
