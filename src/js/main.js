@@ -2,10 +2,9 @@ window.addEventListener("load", () => {
     getStates()
 })
 
-
 function getStates() {
     const xhttp = new XMLHttpRequest()
-xhttp.open("GET", env.host + "/src/api/api.json", true)
+    xhttp.open("GET", env.host + "/src/api/api.json", true)
     xhttp.send()
 
     xhttp.onreadystatechange = function () {
@@ -135,5 +134,3 @@ function buttonGetImages() {
         getImages()
     })
 }
-
-// console.log(picDic["AGS_Aguascalientes"])
