@@ -1,7 +1,94 @@
-.button {
-    display: block;
+body {
+    background-color: #333;
+}
+
+.title {
+    color: #fff;
+    font-size: 4em;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
 }
 
 .subtitle {
+    color: #fff;
     text-align: center;
+    font-size: 2em;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+}
+
+.select {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 1.5em;
+}
+
+.button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2pc;
+    background: linear-gradient(to bottom right, #EF4765, #FF9A5A);
+    border: 0;
+    border-radius: 12px;
+    color: #FFFFFF;
+    cursor: pointer;
+    font-family: -apple-system,system-ui,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 2.5;
+    outline: transparent;
+    padding: 0 1rem;
+    text-align: center;
+    text-decoration: none;
+    transition: box-shadow .2s ease-in-out;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    white-space: nowrap;
+}
+
+.button:not([disabled]):focus {
+    box-shadow: 0 0 .25rem rgba(0, 0, 0, 0.5), -.125rem -.125rem 1rem rgba(239, 71, 101, 0.5), .125rem .125rem 1rem rgba(255, 154, 90, 0.5);
+}
+
+
+.button:not([disabled]):hover {
+    box-shadow: 0 0 .25rem rgba(0, 0, 0, 0.5), -.125rem -.125rem 1rem rgba(239, 71, 101, 0.5), .125rem .125rem 1rem rgba(255, 154, 90, 0.5);
+}
+
+.button:disabled {
+    opacity: 0.5;
+}
+
+.button:disabled:hover {
+    cursor: auto;
+}
+
+.container-div {
+    width: 60vw;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: auto;
+    margin-right: auto;
+    /* border: 5px solid red; */
+}
+
+.img-container {
+    min-width: 200px;
+    min-height: 200px;
+    width: 40%;
+    height: 45%;
+    display: flex;
+    margin: 15px;
+    flex-wrap: wrap;
+    flex-grow: 1;
+}
+
+.state-img {
+    max-width: 100%;
+    max-height: 100%;
+    /* border: 5px solid magenta; */
 }
