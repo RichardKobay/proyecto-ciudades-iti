@@ -4,7 +4,7 @@ window.addEventListener("load", () => {
 
 function getStates() {
     const xhttp = new XMLHttpRequest()
-    xhttp.open("GET", env.host + "/src/api/api.json", true)
+    xhttp.open("GET", "/src/api/api.json", true)
     xhttp.send()
 
     xhttp.onreadystatechange = function () {
@@ -27,7 +27,7 @@ function getStates() {
 
 const getCities = () => {
     const xhttp = new XMLHttpRequest()
-    xhttp.open("GET", env.host + "/src/api/api.json", true)
+    xhttp.open("GET", "/src/api/api.json", true)
     xhttp.send()
 
     xhttp.onreadystatechange = function () {

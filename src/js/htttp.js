@@ -5,7 +5,7 @@ const host = 'localhost'
 const port = 8000
 
 const requestListener = function (req, res) {
-    fs.readFile(env.host + "src/index.html")
+    fs.readFile("src/index.html")
     .then(contents => {
         res.setHeader("Content-Type", "text/html")
         res.writeHead(200)
