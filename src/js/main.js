@@ -49,7 +49,7 @@ const getCities = () => {
 
             const subtitle = document.createElement("h2")
             subtitle.classList.add("subtitle")
-            subtitle.innerHTML = "Seleccione la ciudad"
+            subtitle.innerHTML = "Seleccione la Ciudad:"
             citiesdiv.appendChild(subtitle)
 
             for (const city of statesCities) {
@@ -76,7 +76,7 @@ const getCities = () => {
             getImagesButton.classList.add("button")
             getImagesButton.classList.add("cities-button")
             getImagesButton.setAttribute("id", "getImagesButton")
-            getImagesButton.innerHTML = "Dame las imagenes"
+            getImagesButton.innerHTML = "Mostrar imágenes"
             citiesdiv.appendChild(getImagesButton)
 
             buttonGetImages()
@@ -109,7 +109,7 @@ function getImages() {
     button.setAttribute("disabled", "")
 
     const resetButton = document.createElement("button")
-    resetButton.innerHTML = "Reset"
+    resetButton.innerHTML = "Reiniciar"
     resetButton.classList.add("button", "reset-button")
     resetButton.setAttribute("id", "resetButton")
     resetButton.setAttribute("onClick", "location.reload(true)")
