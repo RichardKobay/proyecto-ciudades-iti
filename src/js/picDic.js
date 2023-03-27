@@ -1,6 +1,12 @@
 // y así con las demas, comillas y eten el link 4 veces dentro del array
 var picDic = {
-    "AGS_Aguascalientes": ["https://livitmexico.com/assets/img/estados/aguascalientes/isla-san-marcos.jpg", "https://api-cms.gayosso.com/storage/agencias/ags_agencia_1.jpg", "https://pueblomx.com/wp-content/uploads/2022/10/aniversario.jpg", "https://livitmexico.com/assets/img/estados/aguascalientes/el-sabinal.jpg"],
+    "AGS_Aguascalientes": ["https://livitmexico.com/assets/img/estados/aguascalientes/isla-san-marcos.jpg",
+    "https://api-cms.gayosso.com/storage/agencias/ags_agencia_1.jpg",
+    "https://pueblomx.com/wp-content/uploads/2022/10/aniversario.jpg",
+    "https://livitmexico.com/assets/img/estados/aguascalientes/el-sabinal.jpg"
+    ],
+
+    
     "AGS_Asientos": ["https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/1e/e7/dd/photo7jpg.jpg?w=700&h=500&s=1", "https://www.asere.com/wp-content/uploads/2020/06/Oaxaca-Me%CC%81xico.jpg", "https://travmex.com/wp-content/uploads/2022/02/Tacos-al-Pastor-1-cropped-700x500.jpg", "https://travmex.com/wp-content/uploads/2022/02/Mexican-beach-destination-1-700x500.jpg"],
     "AGS_Calvillo": ["https://mexicodesconocidoviajes.mx/wp-content/uploads/2020/09/MD_CALVILLO_RUTA-DEL-ARTISTA_PJ_ok-700x500.jpg", "https://api-cms.gayosso.com/storage/cementerios/san_ignacio_1.1.jpg", "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/76/c8/9c/worth-a-25-minute-drive.jpg?w=700&h=500&s=1", "https://neomexicanismos.com/wp-content/uploads/2016/12/calvillo-800x600-700x500.jpg"],
     "AGS_Cosio": ["https://i0.wp.com/labrecha.me/wp-content/uploads/2022/07/Muestra-Nacional-de-Danzo%CC%81n-0-2.jpg?fit=700%2C500&ssl=1", "https://reportajesmetropolitanos.com.mx/morelos15.jpg", "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/e3/52/e2/cosio-valtellino.jpg?w=700&h=500&s=1", "https://infogruas.com.mx/wp-content/uploads/gruas-en-cosio.jpg"],
